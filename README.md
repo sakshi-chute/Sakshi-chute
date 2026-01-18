@@ -29,27 +29,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Sakshi-chute]&show_icons=true&theme=radical)
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=[saksh-chute]&layout=compact&theme=radical)
-
----
-
-### 📊 My GitHub Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi-chute &show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi -chute&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+https://github-readme-stats.vercel.app/api?username=sakshi-chute&show_icons=true&theme=radical&rank_icon=github&border_radius=10
+https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chute&layout=compact&theme=radical&border_radius=10https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chute&theme=radical&border_radius=10<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi-chute&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="sakshi's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chute&layout=compact&theme=radical&border_radius=10" alt="sakshi's Top Languages" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chute&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chute&theme=radical&border_radius=10" alt="sakshi's Streak" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi -chute&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 ---
 
 
