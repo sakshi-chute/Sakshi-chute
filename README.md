@@ -29,11 +29,30 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Sakshi-chute]&show_icons=true&theme=radical)
+![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=[saksh-chute]&layout=compact&theme=radical)
 
 ---
 
+### 📊 My GitHub Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi-chute &show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi -chute&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chute&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi -chute&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+
 ### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[])
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[https://www.linkedin.com/in/sakshi-chute-672a83342])
 
